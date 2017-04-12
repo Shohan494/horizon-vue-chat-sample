@@ -1,0 +1,21 @@
+{
+  "name": "horizon-test",
+  "version": "1.0.0",
+  "description": "horizon-vue-chat-sample",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shohan494/horizon-vue-chat-sample.git"
+  },
+  "author": "Shohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shohan494/horizon-vue-chat-sample/issues"
+  },
+  "homepage": "https://github.com/Shohan494/horizon-vue-chat-sample#readme"
+}
